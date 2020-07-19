@@ -1,1 +1,1 @@
-# SeleniumFramework
+# SeleniumMavenFramework
